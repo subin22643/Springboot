@@ -1,0 +1,13 @@
+package com.example.spharos6;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Spharos6ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
